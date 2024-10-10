@@ -9,5 +9,3 @@ It now includes steps for GitHub
 This tutorial focuses mainly on Git and using GitHub as its remote.
 
 Added some new lines from local to this file
-
-Change added to learn branching
